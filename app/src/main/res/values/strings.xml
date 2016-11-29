@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaAdapters</string>
+    <string name="title_place_holder">A title</string>
+    <string name="body_place_holder">Body Text</string>
+</resources>
